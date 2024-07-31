@@ -1,10 +1,4 @@
-'''
-   This program is to evaluate clustering performance
 
-   Code author: Shide Du
-   Email: shidedums@163.com
-   Date: Dec 4, 2019.
-'''
 
 from scipy.stats import mode
 from sklearn.cluster import KMeans
