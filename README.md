@@ -1,4 +1,4 @@
-##  Be Responsible:  Attribute-Oriented Representation Learning Framework
+##  Be Reliable:  Attribute-Oriented Representation Learning Framework
 A Simple Implementation of the AORL Framework for Node Clustering.
 
 
